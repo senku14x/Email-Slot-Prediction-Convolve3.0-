@@ -1,4 +1,4 @@
-# 📧 Email Engagement Prediction
+# Email Engagement Prediction
 
 This project was developed for the Pan IIT AI/ML Hackathon (IDFC Bank and IIT Guwahati), where our team placed among the top 6 out of 5000+ teams nationwide.
 
